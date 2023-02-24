@@ -1,0 +1,12 @@
+table,tr,td,th{
+    border: 2px solid black;
+}
+.formhtml{
+    width: fit-content;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1rem;
+}
+/* #head{
+
+} */
